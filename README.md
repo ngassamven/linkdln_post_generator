@@ -98,7 +98,7 @@ Cela analysera le fichier data/raw_posts.json et créera data/processed_posts.js
 Venceslas NGASSAM
 📧 www.linkedin.com/in/venceslas-osee-ngassam-kate-data-engineer
 
-💼 Passionné par l’IA, le NLP et l’automatisation intelligente de contenu.
+💼 Data Engineer | Data Scientist | Cloud & Big Data | Databricks Associate Data Engineer | Azure DP-700 | Snowflake SnowPro Core | AI & Machine Learning
 
 ## 🪪 Licence
 
