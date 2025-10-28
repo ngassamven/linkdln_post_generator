@@ -65,7 +65,7 @@ Crée un fichier .env à la racine du projet :
 GROQ_API_KEY=ta_cle_api_groq
 
 ### ▶️ Utilisation
-####🔹 Générer un post LinkedIn
+🔹 Générer un post LinkedIn
 python main.py
 
 
@@ -73,7 +73,7 @@ Ce script générera un post selon les paramètres définis :
 
 print(generate_post("Medium", "English", "Mental Health"))
 
-🔹####  Traiter des posts existants
+🔹Traiter des posts existants
 python process_posts.py
 
 
